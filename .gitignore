@@ -1,1 +1,29 @@
-node_modules
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Redis cache dump
+dump.rdb
+
+# MongoDB lock files (if using local MongoDB)
+*.lock
+
+# Jest & coverage files
+coverage/
+
+# Docker
+docker-compose.override.yml
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
