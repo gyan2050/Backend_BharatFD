@@ -18,12 +18,6 @@ dump.rdb
 # Jest & coverage files
 coverage/
 
-# Docker
-docker-compose.override.yml
-
 # VS Code settings
 .vscode/
 
-# OS-specific files
-.DS_Store
-Thumbs.db
